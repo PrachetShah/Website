@@ -27,13 +27,15 @@ a {color: #11999E; }
 
 .bottom-cloud {  position: absolute;   left: 400px;   bottom: : 300px; }
 
-.code-img { width: 25%; height: 25%; float: left; margin-right: 30px;}
+.code-img { width: 25%; height: 25%; float: left; margin-left: 30px; margin-right: 10px; padding-left: 40px;}
 
 .project-logo { width: 30%; height: 30%; float: right; margin-left: 30px; margin-bottom: 10px;}
 
-.skill-row {width: 85%; margin: 12px auto 12px auto; text-align: left; line-height: 2; }
+.skill-row1 {width: 75%; margin: 80px 180px; text-align: left;  line-height: 2; }
 
-.desciption { color: #40514E;padding-left: 40px; padding-right: 40px;}
+.skill-row2 {width: 75%; margin: 80px 140px; text-align: right; line-height: 2; }
+
+.desciption { width: 75%; color: #40514E;padding-left: 60px; padding-right: 60px; margin-left: 100px;text-align: center;}
 
 .thank-you { margin-bottom: 40px;}
 
