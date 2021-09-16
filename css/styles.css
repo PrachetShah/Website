@@ -27,15 +27,15 @@ a {color: #11999E; }
 
 .bottom-cloud {  position: absolute;   left: 400px;   bottom: : 300px; }
 
-.code-img { width: 25%; height: 25%; float: left; margin-left: 30px; margin-right: 10px; padding-left: 40px;}
+.code-img { width: 30%; height: 25%; float: left; padding-right: 5%; padding-left: 5%px;}
 
 .project-logo { width: 30%; height: 30%; float: right; margin-left: 30px; margin-bottom: 10px;}
 
-.skill-row1 {width: 75%; margin: 80px 180px; text-align: left;  line-height: 2; }
+.skill-row1 {width: 60%; margin: 80px auto; text-align: left;  line-height: 2; }
 
-.skill-row2 {width: 75%; margin: 80px 140px; text-align: right; line-height: 2; }
+.skill-row2 {width: 60%; margin: 80px auto; text-align: right; line-height: 2; }
 
-.desciption { width: 75%; color: #40514E;padding-left: 60px; padding-right: 60px; margin-left: 100px;text-align: center;}
+.desciption { width: 60%; color: #40514E; margin: auto;}
 
 .thank-you { margin-bottom: 40px;}
 
